@@ -1,11 +1,11 @@
-## Stats
+# Stats
 
-Personal repo status
+> Personal repositories status
 
-### issues-translator
+access to https://a631807682.github.io/stats/
 
-<iframe src="https://a631807682.github.io/stats/a631807682/issues-translator/latest-report/report.html"></iframe>
+### Link
 
-### zerofield
+[issues-translator](https://a631807682.github.io/stats/a631807682/issues-translator/latest-report/report.html)
 
-<iframe src="https://a631807682.github.io/stats/a631807682/zerofield/latest-report/report.html"></iframe>
+[zerofield](https://a631807682.github.io/stats/a631807682/zerofield/latest-report/report.html)
