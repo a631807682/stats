@@ -1,5 +1,5 @@
-name: fetch-master-stats
-concurrency: fetch-master-stats
+name: fetch-repo-stats
+concurrency: fetch-repo-stats
 
 on:
   schedule:
@@ -13,7 +13,7 @@ jobs:
     strategy:
       matrix:
         # The repositories to generate reports for.
-        statsRepo: ["a631807682/zerofield"]
+        statsRepo: ["a631807682/issues-translator", "a631807682/zerofield"]
       # Do not cancel&fail all remaining jobs upon first job failure.
       fail-fast: false
       # Help avoid commit conflicts. Note(JP): this should not be
@@ -29,4 +29,4 @@ jobs:
           # can push to the data repository.
           ghtoken: ${{ secrets.ghrs_github_api_token }}
           # Data branch: Branch to push data to (in the data repo).
-          databranch: master
+          databranch: main
