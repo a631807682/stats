@@ -1,5 +1,5 @@
-name: fetch-repository-stats
-concurrency: fetch-repository-stats
+name: fetch-main-stats
+concurrency: fetch-main-stats
 
 on:
   schedule:
