@@ -9,3 +9,5 @@ access to https://a631807682.github.io/stats/
 [issues-translator](https://a631807682.github.io/stats/a631807682/issues-translator/latest-report/report.html)
 
 [zerofield](https://a631807682.github.io/stats/a631807682/zerofield/latest-report/report.html)
+
+[xlsxp](https://a631807682.github.io/stats/a631807682/xlsxp/latest-report/report.html)
